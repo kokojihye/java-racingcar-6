@@ -14,4 +14,4 @@
   * 예외 처리
 -[ ] 사용자는 몇 번의 이동을 할 것인지를 입력할 수 있어야 한다.
   * 예외 처리
--[ ] 사용자가 잘못된 값을 입력할 경우 <code>IleegalArgumentException</code>을 발생시킨 후 애플리케이션은 종료된다.
+-[ ] 사용자가 잘못된 값을 입력할 경우 <code>IllegalArgumentException</code>을 발생시킨 후 애플리케이션은 종료된다.
